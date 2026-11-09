@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": [
+    "shuffle",
+    "density control",
+    "title editing",
+    "SVG download",
+    "actual photo input and exact known-color extraction",
+    "color editing",
+    "invalid image rejection",
+    "reset",
+    "390px overflow"
+  ],
+  "pageErrors": []
+}
